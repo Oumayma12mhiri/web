@@ -1,0 +1,41 @@
+.tableau{
+    text-align: center;
+    margin: auto;
+    margin-top: 190px;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+#dip{
+    background-color: rgba(153, 170, 175, 0.562);
+    font-size: 25px;
+    font-style: italic;
+    height: 60px;
+}
+#dip1{
+    font-size: 45px;
+    font-style: italic;
+    height: 60px;
+    color: rgba(88, 95, 97, 0.562);
+}
+.tableau td, .tableau th{
+    border: 2px solid black;
+    width: 300px;
+    height: 50px;
+}
+.tabVie{
+    
+    text-align: center;
+    margin: auto;
+    margin-top: 80px;
+    border-collapse: collapse;
+}
+.tabVie td, .tabVie th{
+    
+    width: 600px;
+    height: 150px;
+}
+.tdComp{
+    font-weight: bold;
+}
+
